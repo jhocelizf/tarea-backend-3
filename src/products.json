@@ -1,0 +1,38 @@
+[
+    {
+        "id":"2c36a57-678j-5569-a9ee-a4a7f2db7b79",
+        "title":"pantalon",
+        "descrption":"pantalon de jeans",
+        "price" : 205,
+        "thumbnail":"/images/jeans.jpg",
+        "code":"abc",
+        "stock":23
+    },  
+    {
+        "id":"1c36a5e7-578j-4469-a9ee-a4a7f2db7b79",
+        "title":"camisa",
+        "descrption":"camisa 100% algodon",
+        "price" : 205,
+        "thumbnail":"image",
+        "code":"abc11",
+        "stock":23 
+    },
+    {
+        "id":"1u36a5e7-578j-4o69-a9ie-a4a7f2db7l77",
+        "title":"sueter",
+        "descrption":"sueter de lana de ovejo",
+        "price" : 2055,
+        "thumbnail":"/images/sueter.jpg",
+        "code":"4454",
+        "stock":24
+    },  
+    {
+        "id":"1c36a5e7-578c-446f-a9ee-a4a4f2db7b79",
+        "title":"camisa",
+        "descrption":"camisa 100% algodon",
+        "price" : 205,
+        "thumbnail":"image",
+        "code":"abc12",
+        "stock":23 
+    }
+]
